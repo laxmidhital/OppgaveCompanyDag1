@@ -1,0 +1,14 @@
+C:\Users\LaxmiDhital\source\repos\Sol1\Listetrening\obj\Debug\net10.0\Listetrening.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LaxmiDhital\source\repos\Sol1\Listetrening\obj\Debug\net10.0\Listetrening.AssemblyInfoInputs.cache
+C:\Users\LaxmiDhital\source\repos\Sol1\Listetrening\obj\Debug\net10.0\Listetrening.AssemblyInfo.cs
+C:\Users\LaxmiDhital\source\repos\Sol1\Listetrening\obj\Debug\net10.0\Listetrening.csproj.CoreCompileInputs.cache
+C:\Users\LaxmiDhital\source\repos\Sol1\Listetrening\bin\Debug\net10.0\Listetrening.exe
+C:\Users\LaxmiDhital\source\repos\Sol1\Listetrening\bin\Debug\net10.0\Listetrening.deps.json
+C:\Users\LaxmiDhital\source\repos\Sol1\Listetrening\bin\Debug\net10.0\Listetrening.runtimeconfig.json
+C:\Users\LaxmiDhital\source\repos\Sol1\Listetrening\bin\Debug\net10.0\Listetrening.dll
+C:\Users\LaxmiDhital\source\repos\Sol1\Listetrening\bin\Debug\net10.0\Listetrening.pdb
+C:\Users\LaxmiDhital\source\repos\Sol1\Listetrening\obj\Debug\net10.0\Listetrening.dll
+C:\Users\LaxmiDhital\source\repos\Sol1\Listetrening\obj\Debug\net10.0\refint\Listetrening.dll
+C:\Users\LaxmiDhital\source\repos\Sol1\Listetrening\obj\Debug\net10.0\Listetrening.pdb
+C:\Users\LaxmiDhital\source\repos\Sol1\Listetrening\obj\Debug\net10.0\Listetrening.genruntimeconfig.cache
+C:\Users\LaxmiDhital\source\repos\Sol1\Listetrening\obj\Debug\net10.0\ref\Listetrening.dll
